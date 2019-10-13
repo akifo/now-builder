@@ -1,7 +1,7 @@
 import { Config } from '@now/build-utils'
 
 const config: Config = {
-  maxLambdaSize: '50mb'
+  maxLambdaSize: '61mb'
 }
 
 export default config
