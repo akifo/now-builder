@@ -1,6 +1,6 @@
 {
   "name": "@akifo/now-builder",
-  "version": "0.16.7",
+  "version": "0.16.8",
   "license": "MIT",
   "repository": "ssh://git@github.com:akifo/now-builder.git",
   "author": "Akiho Nagao",
