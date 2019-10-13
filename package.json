@@ -1,8 +1,9 @@
 {
-  "name": "@nuxtjs/now-builder",
+  "name": "@akifo/now-builder",
   "version": "0.16.5",
   "license": "MIT",
-  "repository": "nuxt/now-builder",
+  "repository": "ssh://git@github.com:akifo/now-builder.git",
+  "author": "Akiho Nagao",
   "main": "lib/index.js",
   "files": [
     "lib"
